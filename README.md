@@ -68,13 +68,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 (Add your deployed link here after Streamlit deployment)
-
----
-
-## 📷 Output Screenshot
-
-(Add screenshot here if needed)
+👉 https://engine-health-prediction-vpwpqrhhlqec4hv9tgkssk.streamlit.app/
 
 ---
 
